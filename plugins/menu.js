@@ -220,7 +220,6 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 	rows: [
 	    {title: `⚡ ${pmenus} SPEED BOT`, rowId: ".ping", description: "Menampilkan kecepatan respon BOT"},
 	    {title: `💌 ${pmenus} OWNER BOT`, rowId: ".owner", description: "Menampilkan List owner BOT"},
-	    {title: `📔 ${pmenus} SCRIPT BOT`, rowId: ".sc", description: `Source Code ${namebot}`},
 	]
     },{
 	title: `${htki} SUPPORT ${htka}`,
@@ -488,12 +487,12 @@ const listMessage = {
             fileLength: fsizedoc,
             pageCount: fpagedoc,
             caption: text,
-            footer: titlebot + '\n By Zakuro-Dev',
+            footer: titlebot + '\n By TayoBotz',
             templateButtons: [
                 {
                     urlButton: {
                         displayText: `SUBSCRIBE`,
-                        url: 'https://youtubr.com/c/LeonGanz'
+                        url: 'https://www.youtube.com/c/WindahBasudara'
                     }
                 },
                 {
