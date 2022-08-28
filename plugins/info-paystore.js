@@ -31,7 +31,7 @@ let info = `
 
 *⫹⫺ PAYMENT:*
 • *Pulsa:* [${ppulsa}]
-• *Dana:* [${pdana}]
+• *gopay:* [${pgopay}]
 
 –––––– *🐾 Kebijakan* ––––––
 🗣️: Kak, Kok harganya mahal banget?
