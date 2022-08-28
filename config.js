@@ -52,9 +52,9 @@ global.sdc = 'https://chat.whatsapp.com/FDtBwUtHU7q215aWKxD7XT'
 global.snh = 'https://chat.whatsapp.com/FDtBwUtHU7q215aWKxD7XT'
 
 /*============== PAYMENT ==============*/
+global.pgopay = '083893144467'
 global.pdana = 'no have'
 global.povo = 'no have'
-global.pgopay = '083893144467'
 global.ppulsa = '083893144467'
 global.psaweria = '"_"'
 
@@ -179,7 +179,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'TayoBotz'
-global.stickauth = `K`
+global.stickauth = ``
 
 global.multiplier = 38 // The higher, The harder levelup
 
