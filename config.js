@@ -79,36 +79,27 @@ global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
-  rey: 'https://server-api-rey.herokuapp.com',
   xteam: 'https://api.xteam.xyz',
   zahir: 'https://zahirr-web.herokuapp.com',
-  lol: 'https://api.lolhuman.xyz',
-  dhnjing: 'https://dhnjing.xyz',
-  neoxr: 'https://neoxr-api.herokuapp.com',
+  bcil: 'https://75.119.137.248:21587',
+  neoxr: 'https://api.neoxr.eu.org/',
   zeks: 'https://api.zeks.me',
+  gimez: 'https://masgimenz.my.id/',
+  melcanz: 'https://melcanz.com',
   pencarikode: 'https://pencarikode.xyz',
-  ana: 'https://anabotofc.herokuapp.com/',
-  amel: 'https://melcanz.com',
-  hardianto: 'https://hardianto.xyz',
-  botstyle: 'https://botstyle-api.herokuapp.com',
-  adiisus: 'https://adiixyzapi.herokuapp.com',
-  kanx: 'https://kannxapi.herokuapp.com/', 
-  violetics : 'https://violetics.pw'
+  LeysCoder: 'https://leyscoders-api.herokuapp.com',
+  restapi: 'https://x-restapi.herokuapp.com'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'ebb6251cc00f9c63',
-  'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': 'e54205a4ca2caa368cc067bb',
+  'https://api.xteam.xyz': 'apikeyaine',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.me': 'apivinz',
+  'https://api.neoxr.eu.org/': 'jVEMyB2ITJ',
+  'https://api.zeks.me': 'apikeyaine',
   'https://pencarikode.xyz': 'pais',
-  'https://melcanz.com': 'melcantik',
-  'https://neoxr-api.herokuapp.com': 'yntkts',
-  'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://botstyle-api.herokuapp.com': 'Apikeymu',
-  'https://hardianto.xyz': 'hardianto',
-  'https://violetics.pw': 'beta'
+  'https://melcanz.com': 'ZZBk7EBb',
+  'https://leyscoders-api.herokuapp.com': 'dappakntlll',
+  'https://x-restapi.herokuapp.com': 'BETA'
 }
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
